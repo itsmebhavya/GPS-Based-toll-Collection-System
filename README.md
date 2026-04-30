@@ -1,6 +1,6 @@
 # GPS-Based-toll-Collection-System
 Built a GPS-based toll collection system using ESP32, GPS, and GSM for automatic toll deduction. Enables real-time vehicle tracking and reduces congestion at toll booths.
-# GPS-Based Toll Collection System
+
 
 ## 📌 Overview
 This project is an automated toll collection system designed using ESP32, GPS, and GSM modules. It eliminates manual toll payment by automatically detecting vehicle location and deducting toll charges.
